@@ -10,7 +10,7 @@ body{
     line-height: 1.6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
-
+    overflow: hidden;
 }
 
 header{
@@ -156,4 +156,5 @@ a:hover{
 }
 .highlight{
     color: #11a9c1;
+
 }
