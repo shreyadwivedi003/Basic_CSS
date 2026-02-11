@@ -158,3 +158,12 @@ a:hover{
     color: #11a9c1;
 
 }
+@media (max-width: 1024px){
+    .hero{
+        flex-direction:column;
+    }
+    .right{
+        width:95%;
+    }
+}
+
